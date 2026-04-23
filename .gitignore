@@ -1,0 +1,13 @@
+env/
+/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdf
+.vscode/
+.idea/
+*.db
+*.sqlite3
+*.log
+*.egg-info/         
+/Ayushs-data
